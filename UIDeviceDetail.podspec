@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios
 
-  s.source       = { :git => "git remote set-url origin https://xiaowanzhi@github.com/xiaowanzhi/UIDeviceDetail.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://xiaowanzhi@github.com/xiaowanzhi/UIDeviceDetail.git", :tag => "0.0.1" }
 
 
   s.source_files  = "Classes", "UIDevice/*.{h,m}"
