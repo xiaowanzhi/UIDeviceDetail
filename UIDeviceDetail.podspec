@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
                       this project provide all kinds of categories for iOS developer 
                    DESC
 
-  s.homepage     = "https://github.com/lihongliangAndliyan/TestKVO"
+  s.homepage     = "https://github.com/xiaowanzhi/UIDeviceDetail"
 
   s.license      = "MIT"
   s.license      = { :type => "MIT", :file => "LICENSE" }
@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios
 
-  s.source       = { :git => "https://github.com/lihongliangAndliyan/TestKVO.git", :tag => "0.0.8" }
+  s.source       = { :git => "https://github.com/xiaowanzhi/UIDeviceDetail.git", :tag => "0.0.1" }
 
 
   s.source_files  = "Classes", "UIDevice/*.{h,m}"
