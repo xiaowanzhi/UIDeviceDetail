@@ -17,12 +17,12 @@ Pod::Spec.new do |s|
   s.license      = { :type => "MIT", :file => "LICENSE" }
 
 
-  s.author             = { "lihongliang" => "949854103@qq.com" }
+  s.author             = { "xiaowanzhi" => "949854103@qq.com" }
 
 
   s.platform     = :ios
 
-  s.source       = { :git => "https://github.com/xiaowanzhi/UIDeviceDetail.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://xiaowanzhi@github.com/xiaowanzhi/UIDeviceDetail.git", :tag => "0.0.1" }
 
 
   s.source_files  = "Classes", "UIDevice/*.{h,m}"
